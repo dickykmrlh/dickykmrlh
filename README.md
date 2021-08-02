@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dickykmrlh/dickykmrlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Software engineer from Indonesia, I believe life is a long journey with problems to solve, lessons to learn, but most of all, experiences to enjoy. I'm an experimental kind a guy, instead of dwelling on long discussion of what will, and will not happen, I would do a little probe here and there and see what really happen. 
 
-Here are some ideas to get you started:
+## 📬 Get in touch
+- LinkedIn: [linkedin.com/in/muhammad-kamarullah][2]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📕 Book that I currently read ...
+History & Economics:
+1. Why nation fail by Daron Acemoglu, James A. Robinson
+2. good economics for hard times by Abhijit Banerjee, Esther Duflo
+
+Computer Science:
+1. Computer Networking: A Top-down Approach by Jim Kurose
+2. Pattern of enterprise application architecture by Martin fowler
+3. Domain driven design distilled by Vaughn Vernon
+
