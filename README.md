@@ -8,7 +8,7 @@ I am Software engineer from Indonesia, I believe life is a long journey with pro
 ## 📕 Book that I currently read ...
 History & Economics:
 1. Why nation fail by Daron Acemoglu, James A. Robinson
-2. good economics for hard times by Abhijit Banerjee, Esther Duflo
+2. Good economics for hard times by Abhijit Banerjee, Esther Duflo
 
 Computer Science:
 1. Computer Networking: A Top-down Approach by Jim Kurose
