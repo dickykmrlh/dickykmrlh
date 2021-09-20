@@ -6,12 +6,9 @@ I am Software engineer from Indonesia, I believe life is a long journey with pro
 - LinkedIn: <a href="https://www.linkedin.com/in/muhammad-kamarullah/" target="_blank">Muhammad.Dicky.Kamarulah</a>
 
 ## 📕 Book that I currently read ...
-History & Economics:
-1. Why nation fail by Daron Acemoglu, James A. Robinson
-2. Good economics for hard times by Abhijit Banerjee, Esther Duflo
+Memoir:
+1. Born a crime, by Trevor Noah
 
 Computer Science:
-1. Computer Networking: A Top-down Approach by Jim Kurose
-2. Pattern of enterprise application architecture by Martin fowler
-3. Domain driven design distilled by Vaughn Vernon
+1. Structure and Interpretation of Computer Programs, by Harold Abelson, Gerald Jay Sussman, Julie Sussman
 
