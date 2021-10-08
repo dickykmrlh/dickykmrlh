@@ -7,8 +7,9 @@ I am Software engineer from Indonesia, For me life is a long journey, with probl
 
 ## 📕 Book that I currently read ...
 Memoir:
-1. Born a crime, by Trevor Noah
+1. The Lean Startup, by Eric Ries
 
 Computer Science:
-1. Structure and Interpretation of Computer Programs, by Harold Abelson, Gerald Jay Sussman, Julie Sussman
+1. Structure and Interpretation of Computer Programs, by Harold Abelson, Gerald Jay Sussman, and Julie Sussman
+2. Patterns, Principles, and Practices of Domain-Driven Design, by Nick Tune and Scott Millett
 
